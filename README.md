@@ -41,6 +41,8 @@ QuickDoc is a cross-platform mobile application built with **React Native** and 
    ```bash
    npx expo start
    ```
+
+Thank you for visiting this repository! If you find it useful, feel free to star ⭐ and contribute 🤝.
    
 4. Set up environment variables for:
 a) Firebase config
