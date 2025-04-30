@@ -25,19 +25,23 @@ QuickDoc is a cross-platform mobile application built with **React Native** and 
 ## 🧪 Setup Instructions
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Geethanjali5/quickdoc-app.git
    cd quickdoc-app
- ```
+   ```
 
 2. Install dependencies:
+
    ```bash
    npm install
- ```
+   ```
+   
 3. Start the app:
-      ```bash
+   ```bash
    npx expo start
- ```
+   ```
+   
 4. Set up environment variables for:
 a) Firebase config
 b) Google Cloud Vision API key
