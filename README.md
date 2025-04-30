@@ -20,7 +20,7 @@ QuickDoc is a cross-platform mobile application built with **React Native** and 
 
 ## 📷 Screenshots
 
-<img width="385" alt="Image" src="https://github.com/user-attachments/assets/daff6d3f-d21a-4517-a0db-e8c24ff3e56f" />
+<img width="585" alt="Image" src="https://github.com/user-attachments/assets/daff6d3f-d21a-4517-a0db-e8c24ff3e56f" />
 
 ## 🧪 Setup Instructions
 
